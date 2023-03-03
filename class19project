@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><strong>SONGS OF THE SPIRIT IN STUDIO
+</strong><title>LoveWorld Singers</title>
+</head>
+<body>
+    <table><tr>
+        <td>
+    <img src='https://dl.dropbox.com/s/mp9hzd3s6viisfc/Screenshot_20230214-173046~2.png' height='150'>
+</td>
+    <tr><td>
+    <video controls>
+    </embed source src='https://dl.youtube.com/embed/FOFrXNJTmAE'></embed>
+        <a href='https://www.youtube.com/watch?v=FOFrXNJTmAE'>be</a>Video
+    </video></td>
+<td>
+    <video controls>
+    </embed source src='https://dl.youtube.com/watch?v=LFSwZ1gNoVI'></embed>
+        <a href='https://www.youtube.com/watch?v=LFSwZ1gNoVI'></a>Video
+    </video></td>
+</tr>
+<tr>
+    <td>
+
+<iframe boder='1' src='./20230216_094609~2.jpg' name="bread" height="150"></iframe>  
+<br><h1>Songs of True Praise and Worship</h1>
+<P>This songs are to inspired faith in Your heart bring hope and lead you to a place of true worship</P>
+</td>
+
+</tr>
+<tr><td>
+
+   
+        <audio controls>
+        <audio src=" https://dl.dropbox.com/s/4mghr7s23zdr5ga/Jesus%20Sovereign%20God.mp3"></audio>
+        <div>
+        <img src="./Screenshot_20230214-185501~2.png" height="100" target="bread"><p>Price N1000</p>
+        <img src="./Screenshot_20230214-185507~2.png" height="100" target="'bread"><p>Price N1000</p>
+    </div>  
+</td></tr>
+
+<tr>
+       <tbody>
+        <label><strong>Contact Informations</label></strong>
+        <td>
+        <label>Name</label>    
+            <input type="text"> 
+        </td>
+        <tr></tr>
+        <td>
+            <label>Phone</label>
+            <input type="phone">
+        </td>
+    </tr>
+    <form>
+        <td>
+            <label>Email Address</label>
+            <input type="email" placeholder="jadelndangong@gmail.com">
+        </td></table>
+        <td><tr>
+        <label>Accept terms and Policies</label>
+        <label>Yes</label> <input type="checkbox"> 
+    </td></tr>
+
+    <td><tr>
+        <input type='submit'>
+        <input type="reset">
+    </td></tr>
+    </body>
+</form>
+
+</body>
+</table>
+</html>
